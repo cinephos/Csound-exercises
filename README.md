@@ -9,4 +9,4 @@ Triads come first, all three inversions in the closed position followed by all t
 4-note chords follow, closed position inversions and a selected open position for each inversion. 
 There are 2 empty slots for variations. A single 5 note chord is included. The table can be extended, of course.
 
-The root of the scale is defined as a global variable, therefore all notes and chords ; must be referred to as semitones (midi key increments) of the root.
+The root of the scale is defined as a global variable, therefore all notes and chords must be referred to as semitones (midi key increments) of the root.
