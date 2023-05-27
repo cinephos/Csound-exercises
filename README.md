@@ -1,7 +1,7 @@
 # Csound-exercises
 Csound exercises inspired by the Floss manual and Victor Lazzarini's "Csound: A Sound and Music Computing System"
 
-The **chordplayer** is inspired from the Floss manual besic chapter "01 B. PITCH AND FREQUENCY"
+The **chordplayer** is inspired from the Floss manual basics chapter "01 B. PITCH AND FREQUENCY"
 
 The chordplayer is based on the idea that all chords can be included in a single table and can be played by a single loop.
 
