@@ -90,8 +90,8 @@ instr 1
 
 ; if you extend the gichords[] table, you may want to uncomment the following lines. The first
 ; prints the index of the table, and the second prints the calculated midi key to be played.  
-; print giroot + idegree + gichords[ichord + (ioc * ipos) + (ivoices * iinv) + iindex]
 ; print ichord + (ioc * ipos) + (ivoices * iinv) + iindex
+; print giroot + idegree + gichords[ichord + (ioc * ipos) + (ivoices * iinv) + iindex]
 
   iindex    +=  1 
  od
