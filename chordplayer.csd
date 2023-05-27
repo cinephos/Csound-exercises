@@ -123,14 +123,14 @@ t 0 20  ; 20 whole notes per minute
 
 ; the following example playes a few bars from "Autumn leaves" by Joseph Kosma
 
-; instr start   dur     amp degree      chord   inversion   position 0=open, 1=closed
+; instr start   dur     amp degree      chord   inversion   position 0=closed, 1=open
 i 1     1       .5      .03 2           220     0           0       ; iv 7 (4th degree of the minor scale)
 i 1     +       .       .   [7-12]      140     2           0       ; b VII 7
 i 1     +       .       .   0           100     0           0       ; b III maj7
 i 1     +       .       .   [5-12]      100     2           0       ; b VI maj7
 i 1     +       .       .   [11-12]     300     0           0       ; ii 7 b5
 i 1     +       .       .   [4-12]      140     2           0       ; V 7
-i 1     +       .625    .   [9-12]      20      1           0       ; i m
+i 1     +       .625    .   [9-12]      20      1           0       ; i
 
 ; time .125 represents an eigth note, .25 a quarter note, .5 a half note etc 
 i 2 .625    .125    .3  [9-12]
