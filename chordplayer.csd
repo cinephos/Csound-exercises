@@ -5,7 +5,7 @@
 <CsInstruments>
 ; The chord player by Michalis Kaloumenos
 ; 
-; The chordplayer is based on the idea that all chords can be included in a single.table,
+; The chordplayer is based on the idea that all chords can be included in a single table,
 ; and can be played by a single loop. 
 ; triads come first, all three inversions in the closed position followed by all three
 ; inversions in an open position. 4-note chords follow, closed position inversions and
